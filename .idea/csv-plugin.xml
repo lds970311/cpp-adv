@@ -10,10 +10,24 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Algorithm\Fib\Fibonacci.cpp">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\CMakeLists.txt">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DataStructures\LinerList\Array.cpp">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
