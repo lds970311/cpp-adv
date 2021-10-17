@@ -3,4 +3,7 @@ project(cpp_adv)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cpp_adv main.cpp)
+#add_executable(cpp_adv main.cpp)
+
+add_executable(DataStructures.LinerList.Array DataStructures/LinerList/Array.cpp)
+add_executable(Algorithm.FibFibonacci Algorithm/Fib/Fibonacci.cpp)
