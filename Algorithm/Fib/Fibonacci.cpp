@@ -26,4 +26,5 @@ unsigned int fibonacci(unsigned int n) {
 int main(int argc, char **argv) {
     unsigned int result = fibonacci(5); //求前5项和
     cout << result << endl;
+    return 0;
 }
